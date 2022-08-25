@@ -6,6 +6,7 @@
     # 1. Modificar codigo
     names(mtcars)
     # 2. Creamos una branch desde R
+    
     # 3. Guardamos cambios y hacemos commit
     # 4. Hacemos el pull y verifcamos en GitHub
     # 5. Colocarse en el inicio del repo y seleccionar el nuevo commit
@@ -24,3 +25,6 @@
     # Ahora hacemos un cambio con rama del autor
     
     
+=======
+    # 3. Guardamos cambios y hacemos commit
+>>>>>>> 0586a984169a5f7ad1536c23ce4a5e721ecc59d8
