@@ -23,8 +23,5 @@
     
     
     # Ahora hacemos un cambio con rama del autor
-    
-    
-=======
-    # 3. Guardamos cambios y hacemos commit
->>>>>>> 0586a984169a5f7ad1536c23ce4a5e721ecc59d8
+    # Desde R o GitHub
+    # Desde GitHub se hace la edicion, el commit y se nombra la branch
