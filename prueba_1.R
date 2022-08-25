@@ -25,3 +25,9 @@
     # Ahora hacemos un cambio con rama del autor
     # Desde R o GitHub
     # Desde GitHub se hace la edicion, el commit y se nombra la branch
+    # No se pueden hacer pull request ni merge desde R
+    # Si se hace el pull request y no el merge, hacemos el Pull al local
+    # La ventana nos dara un avio de que se creo una nueva branch
+    # Nos podemos ir a la branch y ver esos cambios
+    # Luego desde GutHub hacer el Merge
+    
